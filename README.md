@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Christophe, from Mexico.
+- 👋 Hi, I’m Rhisto, from Mexico.
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning Nextjs, React, CSS, APIs, and lots of stuff  
 - 💞️ I’m looking to collaborate on all kinds of web dev projects
